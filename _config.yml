@@ -1,2 +1,18 @@
-title: Ran Liao
+title: "Ran Liao"
+logo: /assets/github_withran_pic.jpeg
 theme: jekyll-theme-minimal
+description: >
+  Statistician at Eli Lilly. Passionate about drug development and any health and medicine-related research.
+  I always find my roots in math and data, but use it beyond.
+  Coffee drinker ☕ (latte is my favorite), mid-aged woman, and animal lover 🐾.
+
+# Optional links shown below your picture
+show_downloads: false
+github:
+  is_project_page: false
+  owner_url: https://github.com/topran
+  owner_name: Ran Liao
+social_links:
+  - { platform: "linkedin",  user_url: "https://www.linkedin.com/in/ran-liao-7b629298/" }
+  - { platform: "google-scholar", user_url: "https://scholar.google.com/citations?user=0c3orOgAAAAJ&hl=en" }
+  - { platform: "github", user_url: "https://github.com/topran" }

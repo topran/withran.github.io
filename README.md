@@ -1,5 +1,5 @@
 # 👋 Hi, I'm **Ran Liao**  
-### Statistician at Eli Lilly and Company  
+### Statistician
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ran-liao-7b629298/)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=0c3orOgAAAAJ&hl=en)
@@ -8,9 +8,9 @@
 ---
 
 ## 🌱 About Me  
-I’m a **Statistician in the pharmaceutical industry **, passionate about **science**, **drug development**, and **health & medicine research**.  
-I always find my roots in **math and data**.
-I am a heavy coffee drinker, an animal lover, an easy-going person, and a trustworthy friend. My husband thinks I complain about life too much, but honestly, I feel I’m doing just fine as a mid-aged woman. 
+- I’m a **Statistician in the pharmaceutical industry **, passionate about **science**, **drug development**, and **health & medicine research**.  
+- I always find my roots in **math and data**.
+- I am a heavy coffee drinker, an animal lover, an easy-going person, and a trustworthy friend. My husband thinks I complain about life too much, but honestly, I feel I’m doing just fine as a mid-aged woman. 
 
 
 My work focuses on **Bayesian modeling**, **dynamic borrowing**, and **innovative clinical trial designs** to make drug development research smarter, faster, and more informative.  

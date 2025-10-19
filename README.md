@@ -8,32 +8,40 @@
 ---
 
 ## 🌱 About Me  
-- I’m a **Statistician in the pharmaceutical industry**, passionate about **science**, **drug development**, and **health & medicine research**.  
-- I always find my roots in **math and data**.
+- I’m a Statistician in the pharmaceutical industry, passionate about science, drug development, and health & medicine research.  
+- I always find my roots in math and data.
 - I am a heavy coffee drinker, an animal lover, an easy-going person, and a trustworthy friend.
 - My husband thinks I complain about life too much, but honestly, I feel I’m doing just fine as a mid-aged woman. 
 
 
-My work focuses on **Bayesian modeling**, **dynamic borrowing**, **risk benefit**,  and **innovative clinical trial designs** to make drug development research smarter, faster, and more informative.  
+As a statistician, I am interested in Bayesian modeling, dynamic borrowing, risk-benefit assessment,  and innovative clinical trial designs to make drug development research smarter, faster, and more informative.  
+
+As a drug developer, I am interested in tracking the landscape and chasing new findings in the field.
 
 ---
 
 ## 🔬 Professional Focus  
-- **Therapeutic Area**: Cardiometabolic Health (obesity, diabetes, heart failure, ASCVD). Immunology (rheumatoid arthritis, juvenile idiopathic arthritis, atopic dermatitis)
-- **Expertise**: Bayesian adaptive design, dose–response modeling, evidence synthesis  
-- **Collaboration**: Ongoing research with **Indiana University (Prof. Yong Zang)** on adaptive borrowing and robust prior specification  
-- **Goal**: Bridge rigorous statistical methods and practical decision-making in drug development  
+- **Goal**: Bridge rigorous statistical methods and practical decision-making in drug development
+
+# 💭 Thoughts on Drug Development
+
+It’s been bothering me lately how **resource-consuming** the whole process of drug development is. I love the evidence-based way things are done — and as a statistician, that’s basically why I have such a good job — but it still feels crazy that it takes **10–12 years on average** for a drug to go from discovery to approval [(American Pharmaceutical Review)](https://www.americanpharmaceuticalreview.com/Featured-Articles/594397-The-Lifecycle-from-Drug-Development-Through-Approval-Processes/#:~:text=The%20average%20lifecycle%20of%20drug,about%2010%20to%2012%20years.).
+
+I grew up in **China**, where herbal medicine has a long history and a lot of treatments are passed down through generations. Sometimes it’s literally, “your grandma heard from her neighbor’s grandma that this herb works.” I respect that kind of shared experience — it’s part of our culture — but at the same time, it always made me uncomfortable that there isn’t **solid clinical validation** behind much of it.
+
+So I keep asking myself: how can we make the whole process better?  
+No matter the starting point — traditional or modern — the goal is the same:  
+**get effective treatments to people faster**, and **make information sharing and tracking more open and complete**.
+
+Maybe the answer lies in using **real-world data**, **real-world evidence**, or **seamless trial designs**.  
+I’ve been thinking and working a lot about **seamless design and data borrowing** lately, and it’s becoming a big focus for me.  
+
 
 📚 See my research work on [Google Scholar](https://scholar.google.com/citations?user=0c3orOgAAAAJ&hl=en).
 
 ---
 
-## 💻 Technical Toolkit  
-| Category | Tools & Languages |
-|-----------|------------------|
-| **Programming** | R, SAS |
-| **Workflow** | GitHub, R Markdown, Shiny Apps |
-| **Methodology Interests** | Dynamic Borrowing, TMLE, Bayesian Evidence Synthesis |
+
 
 ---
 

@@ -42,14 +42,4 @@ I’ve been thinking and working a lot about **seamless design and data borrowin
 ---
 
 
-
----
-
-
-
-
-
----
-
-> “Math gives structure, data gives evidence, but **stories of health give purpose**.”  
 > — *Ran Liao*

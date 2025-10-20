@@ -9,7 +9,7 @@
 
 ## 🌱 About Me  
 - I’m a Statistician in the pharmaceutical industry, passionate about science, drug development, and health & medicine research.  
-- I always find my roots in math.
+- I find my roots in math.
 - You will find me always on my way to get a cup of coffee.
 - My husband thinks I complain about life too much, but honestly, I feel I’m doing just fine as a mid-aged woman. 
 

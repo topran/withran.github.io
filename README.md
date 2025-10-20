@@ -10,7 +10,7 @@
 ## 🌱 About Me  
 - I’m a Statistician in the pharmaceutical industry, passionate about science, drug development, and health & medicine research.  
 - I always find my roots in math and data.
-- I am a heavy coffee drinker, an animal lover, an easy-going person, and a trustworthy friend.
+- I am alway on my way to get a cup of coffee, in the meantime, I am an animal lover, an easy-going person, and a trustworthy friend.
 - My husband thinks I complain about life too much, but honestly, I feel I’m doing just fine as a mid-aged woman. 
 
 

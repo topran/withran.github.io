@@ -25,9 +25,9 @@ As a drug developer, I am interested in tracking the landscape and chasing new f
 
 # 💭 Thoughts on Drug Development
 
-It’s been bothering me lately how resource-consuming the whole process of drug development is. I love the evidence-based way things are done — and as a statistician, that’s basically why I have such a good job — but it still feels crazy that it takes 10–12 years on average for a drug to go from discovery to approval [(American Pharmaceutical Review)](https://www.americanpharmaceuticalreview.com/Featured-Articles/594397-The-Lifecycle-from-Drug-Development-Through-Approval-Processes/#:~:text=The%20average%20lifecycle%20of%20drug,about%2010%20to%2012%20years.).
+It’s been bothering me how resource-consuming the whole process of drug development is. I love the evidence-based way things are done — and as a statistician, that’s basically why I have such a good job — but it still feels crazy that it takes 10–12 years on average for a drug to go from discovery to approval [(American Pharmaceutical Review)](https://www.americanpharmaceuticalreview.com/Featured-Articles/594397-The-Lifecycle-from-Drug-Development-Through-Approval-Processes/#:~:text=The%20average%20lifecycle%20of%20drug,about%2010%20to%2012%20years.).
 
-I grew up in China, where herbal medicine has a long history and a lot of treatments are passed down through generations. Sometimes it’s literally, “your grandma heard from her neighbor’s grandma that this herb works.” I respect that kind of shared experience — it’s part of our culture — but at the same time, it always made me uncomfortable that there isn’t solid clinical validation behind much of it.
+I grew up in China, where herbal medicine has a long history and a lot of treatments are passed down through generations. Sometimes it’s literally, “your grandma heard from another grandma that this herb works.” I respect that kind of shared experience — it’s part of our culture — but at the same time, it always made me wondering how to valid evidence without a rigrous science.
 
 So I keep asking myself: how can we make the whole process better?  
 No matter the starting point — traditional or modern — the goal is the same:  
